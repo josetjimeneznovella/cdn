@@ -1,0 +1,13 @@
+{
+    "language": {
+        "en": "Ingles",
+        "es": "Español"
+    },
+    "landing": {
+        "header": {
+            "repair-device": "Reparar dispositivo",
+            "title": "Reparación y mantenimiento de dispositivos moviles",
+            "subtitle": "Somos especialistas en la realización de actividades de Reparación a niveles avanzados."
+        }
+    }
+}

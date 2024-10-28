@@ -1,0 +1,13 @@
+{
+    "language": {
+        "en": "English",
+        "es": "Spanish"
+    },
+    "landing": {
+        "header": {
+            "repair-device": "Repair device",
+            "title": "Electronic after-sales",
+            "subtitle": "We are experts in the performance of advanced repair activities."
+        }
+    }
+}
